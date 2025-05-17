@@ -1,0 +1,6 @@
+.venv
+.env
+frontend
+
+__pycache__/
+*.py[cod]
